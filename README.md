@@ -1,2 +1,0 @@
-# GTBREMOVE
-agent uninstall
